@@ -16,19 +16,19 @@ import androidx.databinding.BindingAdapter
 
 
 ///**  统一图片加载，glide
-// *  imgRes - 图片id/url
-// *  defaultId - 默认图片id
-// *  errorId - 错误图片id
-// *  optionType -  0--原始普通图片
-// *                1--圆形图片
-// *                2--椭圆角图片
 // */
 //@BindingAdapter(
 //    "sunmi:imgRes",
 //    "sunmi:defaultId",
 //    "sunmi:errorId",
 //    "sunmi:optionType",
-//    requireAll = false
+//
+//// *  imgRes - 图片id/url
+//// *  defaultId - 默认图片id
+//// *  errorId - 错误图片id
+//// *  optionType -  0--原始普通图片
+//// *                1--圆形图片
+//// *                2--椭圆角图片 requireAll = false
 //)
 //fun setImgResource(
 //    view: ImageView?, res: Any?, defaultId: Drawable?, errorId: Drawable?,
